@@ -126,6 +126,7 @@ public class Advice {
 	 *  
 	 * */
 	
+	/*
 	// 메서드 호출 전
 	@Before("execution(* work())")
 	public void before() {
@@ -166,10 +167,7 @@ public class Advice {
 		System.out.println();
 		
 	}
-	
-	
-	
-	
+	*/
 	
 	
 	
